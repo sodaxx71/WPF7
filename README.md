@@ -1,7 +1,7 @@
 <h3> Описание проекта</h3>
 <p>WPF-приложение для работы с товарами с использованием:</p>
 <ul>
-  <li><strong>Entity Framework Core</strong> - ORM для работы с данными</li>
+  <li><strong>Entity Framework Core</strong> -  для работы с данными</li>
   <li><strong>SQLite</strong> - встроенная база данных</li>
 </ul>
 
